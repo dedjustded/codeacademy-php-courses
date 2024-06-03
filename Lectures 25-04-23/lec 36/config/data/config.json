@@ -1,0 +1,15 @@
+{
+    "database": {
+        "host": "localhost",
+        "username": "koleto",
+        "password": "password",
+        "dbname": "mydatabase"
+    },
+    "email": {
+        "smtp": "smth.example.com",
+        "port": 587,
+        "username": "user@example.com",
+        "password": "emailpassword"
+    },
+    "debug": true
+}

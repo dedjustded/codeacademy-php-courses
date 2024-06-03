@@ -1,0 +1,88 @@
+{
+    "carInfo": {
+        "brand": "Dacia",
+        "model": "Logan",
+        "year": 2010,
+        "reservoir_volume": 50,
+        "fuel_type": "Diesel"
+    },
+    "refuel_events": [
+        {
+            "date": "2023-03-01",
+            "distance": "100",
+            "total_odo": "5000",
+            "fuel_quantity": "5",
+            "fuel_amount": "2",
+            "total_price": "10",
+            "gas_station_product": "diesel",
+            "gas_station_name": "PETROL",
+            "driving_type": "city"
+        },
+        {
+            "date": "2023-04-01",
+            "distance": "101",
+            "total_odo": "5100",
+            "fuel_quantity": "5",
+            "fuel_amount": "2",
+            "total_price": "10",
+            "gas_station_product": "diesel",
+            "gas_station_name": "PETROL",
+            "driving_type": "intercity"
+        },
+        {
+            "date": "2023-04-19",
+            "distance": "100",
+            "total_odo": "52002",
+            "fuel_quantity": "10",
+            "fuel_amount": "3",
+            "total_price": "30",
+            "gas_station_product": "Max Motion Diesel",
+            "gas_station_name": "OMV",
+            "driving_type": "city"
+        },
+        {
+            "date": "2023-05-01",
+            "distance": "120",
+            "total_odo": "5200",
+            "fuel_quantity": "10",
+            "fuel_amount": "3",
+            "total_price": "30",
+            "gas_station_product": "Max Motion Diesel",
+            "gas_station_name": "OMV",
+            "driving_type": "mixed"
+        },
+        {
+            "date": "2023-05-02",
+            "distance": "100",
+            "total_odo": "5300",
+            "fuel_quantity": "5",
+            "fuel_amount": "3",
+            "total_price": "15",
+            "gas_station_product": "diesel",
+            "gas_station_name": "EKO",
+            "driving_type": "city"
+        },
+        {
+            "date": "2023-05-09",
+            "distance": "100",
+            "total_odo": "5400",
+            "fuel_quantity": "5",
+            "fuel_amount": "2",
+            "total_price": "10",
+            "gas_station_product": "economy Diesel",
+            "gas_station_name": "EKO",
+            "driving_type": "mixed"
+        },
+        {
+            "date": "2023-05-23",
+            "distance": "100",
+            "total_odo": "5500",
+            "fuel_quantity": "5",
+            "fuel_amount": "2",
+            "total_price": "10",
+            "gas_station_product": "economy Diesel",
+            "gas_station_name": "EKO",
+            "driving_type": "na"
+        }
+    ]
+}

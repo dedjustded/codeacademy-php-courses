@@ -1,0 +1,45 @@
+{
+    "carInfo": {
+        "brand": "Dacia",
+        "model": "Logan",
+        "year": 2010,
+        "reservoir_volume": 50,
+        "fuel_type": "Diesel"
+    },
+    "refuel_events": [
+        {
+            "date": "2023-05-01",
+            "distance": 700,
+            "total_odo": 76230,
+            "fuel_quantity": 30,
+            "fuel_amount": 3.33,
+            "total_price": 99.99,
+            "gas_station_name": "OMV",
+            "gas_station_product": "Max Motion Diesel",
+            "driving_type": "city"
+        },
+        {
+            "date": "2023-06-01",
+            "distance": 600,
+            "total_odo": 76530,
+            "fuel_quantity": 30,
+            "fuel_amount": 3.33,
+            "total_price": 99.99,
+            "gas_station_name": "OMV",
+            "gas_station_product": "Max Motion Diesel",
+            "driving_type": "city"
+        },
+        {
+            "id": "2",
+            "date": "2023-03-20",
+            "distance": "11",
+            "total_odo": "111111",
+            "fuel_quantity": "1",
+            "fuel_amount": "1",
+            "total_price": "1",
+            "gas_station_product": "r",
+            "gas_station_name": "r",
+            "driving_type": "mixed"
+        }
+    ]
+}
